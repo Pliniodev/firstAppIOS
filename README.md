@@ -1,5 +1,5 @@
 
-Just my first IOS app, to practice a litle about swift and UIKit.
+<p align="center">Just my first IOS app, to practice a litle about swift and UIKit.<p/>
 
 <p align="center">
   <img height="400em" src="https://github.com/Pliniodev/firstAppIOS/assets/50078639/5329d4cb-9da8-4051-9a87-b3043de769fb" />
